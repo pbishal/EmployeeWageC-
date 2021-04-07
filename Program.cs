@@ -6,19 +6,31 @@ namespace EmployeeWageComputation
     {
         static void Main(string[] args)
         {
-            int present = 1;
-            Random randomValue = new Random();
-            int employeeCheck = randomValue.Next(0, 2);
+         //local variables
+         int empWage = 0;
+         int empHrs = 0;
+         int empRatePerHr = 20;
+         //constants
+         int PRESENT = 1;
+         int EMP_RATEPER_HR = 20;
 
-            Console.WriteLine("Random value" + employeeCheck);
+         //inbuilt class
+         Random random = new Random();
+         int employeeCheck = random.Next(0, 2);
 
-            if (employeeCheck == present)
-                 Console.WriteLine("Employee is present");
-            else
-                 Console.WriteLine("Employee is absent");
+         Console.WriteLine("Random value" + employeeCheck);
+         if (employeeCheck == PRESENT)
+         {
+            empHrs = 8;
+         }
+         else
+         {
+            empHrs = 0;
+         }
 
-            Console.ReadLine();
-
+         empWage = EMP_RATEPER_HR * empHrs;
+         Console.WriteLine("Employee wage per day" + empWage);
+         Console.ReadLine();
         }
     }
 }
