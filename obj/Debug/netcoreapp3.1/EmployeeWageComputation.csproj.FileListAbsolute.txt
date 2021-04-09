@@ -1,0 +1,13 @@
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\netcoreapp3.1\EmployeeWageComputation.exe
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\netcoreapp3.1\EmployeeWageComputation.deps.json
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\netcoreapp3.1\EmployeeWageComputation.runtimeconfig.json
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\netcoreapp3.1\EmployeeWageComputation.runtimeconfig.dev.json
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\netcoreapp3.1\EmployeeWageComputation.dll
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\netcoreapp3.1\EmployeeWageComputation.pdb
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\netcoreapp3.1\EmployeeWageComputation.csprojAssemblyReference.cache
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\netcoreapp3.1\EmployeeWageComputation.AssemblyInfoInputs.cache
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\netcoreapp3.1\EmployeeWageComputation.AssemblyInfo.cs
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\netcoreapp3.1\EmployeeWageComputation.csproj.CoreCompileInputs.cache
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\netcoreapp3.1\EmployeeWageComputation.dll
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\netcoreapp3.1\EmployeeWageComputation.pdb
+C:\Users\Bishal Pradhan\Desktop\bridgelabz\dotNET\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\netcoreapp3.1\EmployeeWageComputation.genruntimeconfig.cache
