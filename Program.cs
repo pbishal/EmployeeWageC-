@@ -4,12 +4,13 @@ namespace EmployeeWageComputation
 {
     class Program
     {
-        public const int EMP_RATEPER_HR = 20;
         public const int FULL_TIME = 1;
         public const int PART_TIME = 2;
+        public const int EMP_RATEPER_HR = 20;
         public const int WORKING_DAYS = 20;
         public const int MAX_WORKING_HRS = 50;
-        static void Main(string[] args)
+
+        public static void computeEmpWage()
         {
             //local variables
             int empWage = 0;
@@ -17,8 +18,6 @@ namespace EmployeeWageComputation
             int totalEmpWage = 0;
             int hrs = 0;
             int workingDays = 1;
-            //int empRatePerHr = 20;
-            //constant
 
             //inbuilt class
             Random random = new Random();
@@ -46,13 +45,16 @@ namespace EmployeeWageComputation
                 hrs += empHrs;
                 Console.WriteLine("per day employee wage" + empWage);
                 totalEmpWage += empWage;
-                
+
             }
 
-            Console.WriteLine("Employee wage for"+workingDays+"days" +totalEmpWage);
+            Console.WriteLine("Employee wage for" + workingDays + "days" + totalEmpWage);
             Console.WriteLine("Working hes" + hrs);
             Console.ReadLine();
-
+        }
+        static void Main(string[] args)
+        {
+            computeEmpWage();
         }
     }
 }
